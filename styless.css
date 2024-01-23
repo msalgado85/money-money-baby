@@ -1,0 +1,13 @@
+table, th, td {
+    border: 1px solid black;
+    color: aquamarine;
+    background-color: blue;
+}
+body {
+    background-image:
+    url('https://www.pngall.com/wp-content/uploads/12/Rich-People-PNG-Image.png')
+;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
